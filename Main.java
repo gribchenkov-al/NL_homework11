@@ -17,7 +17,7 @@ public class Main {
 
     }
 
-    void main() {
+    public static void main() {
         Address addressOne = new Address("Россия", "Пенза");
         Address addressTwo = new Address("Россия", "Санкт-Петербург");
         Address addressThree = new Address("Япония", "Токио");
